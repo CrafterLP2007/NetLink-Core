@@ -1,0 +1,7 @@
+{
+    "configuration": {
+        "wlan_name": "wlan0",
+        "wlan_password": "123123",
+        "setup": false
+    }
+}
